@@ -1,9 +1,54 @@
 # node-syte
 
-> node-syte is a JavaScript port of **[syte](https://github.com/rigoneri/syte)**.
+> node-syte is a JavaScript port of **[syte](https://github.com/rigoneri/syte)**, by [Rigo](https://github.com/rigoneri).
 
 
 _Syte is a really simple but powerful packaged personal site that has social integrations like Twitter, GitHub, Dribbble, Instagram, Foursquare, Tumblr, Wordpress, Last.fm, SoundCloud, Bitbucket, StackOverflow and Steam. You can see it in action on the syte author's [personal site](http://rigoneri.com)._
+
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [node-syte](#node-syte)
+  - [Social Integrations](#social-integrations)
+    - [Blog](#blog)
+    - [Twitter](#twitter)
+    - [GitHub](#github)
+    - [Dribbble](#dribbble)
+    - [Instagram](#instagram)
+    - [Foursquare](#foursquare)
+    - [Last.fm](#lastfm)
+    - [SoundCloud](#soundcloud)
+    - [Bitbucket](#bitbucket)
+    - [Tent.io](#tentio)
+    - [Steam](#steam)
+    - [StackOverflow](#stackoverflow)
+  - [Responsive UI](#responsive-ui)
+  - [Technologies Used](#technologies-used)
+  - [Setup Instructions](#setup-instructions)
+    - [Base content changes](#base-content-changes)
+    - [Setting up your blog](#setting-up-your-blog)
+      - [Setting up Tumblr](#setting-up-tumblr)
+      - [Setting up Wordpress](#setting-up-wordpress)
+      - [Comments](#comments)
+    - [Setting up Twitter integration](#setting-up-twitter-integration)
+    - [Setting up GitHub integration](#setting-up-github-integration)
+    - [Setting up Dribbble integration](#setting-up-dribbble-integration)
+    - [Setting up Instagram integration](#setting-up-instagram-integration)
+    - [Setting up Foursquare integration](#setting-up-foursquare-integration)
+    - [Setting up Last.fm integration](#setting-up-lastfm-integration)
+    - [Setting up SoundCloud integration](#setting-up-soundcloud-integration)
+    - [Setting up Bitbucket integration](#setting-up-bitbucket-integration)
+      - [Comment](#comment)
+    - [Setting up Tent.io integration](#setting-up-tentio-integration)
+    - [Setting up Steam integration](#setting-up-steam-integration)
+    - [Setting up StackOverflow integration](#setting-up-stackoverflow-integration)
+  - [Running & Deployment Instructions](#running--deployment-instructions)
+    - [Running Syte locally](#running-syte-locally)
+    - [Compressing Statics](#compressing-statics)
+    - [Deploying to Heroku](#deploying-to-heroku)
+  - [Contributing](#contributing)
+  - [Author](#author)
+  - [Credit](#credit)
+  - [License](#license)
 
 
 ## Social Integrations
@@ -438,7 +483,7 @@ Special thanks to @wprl for kickstarting the port from Python to JavaScript.
 
 ## Credit
 
-**Syte** was developed by **Rigo** (rodrigo neri). Check his personal site out at <http://rigoneri.com> and follow him on twitter [@rigoneri](http://twitter.com/#!/rigoneri)
+**Syte** was developed by **[Rigo](https://github.com/rigoneri)** (rodrigo neri). Check his personal site out at <http://rigoneri.com> and follow him on twitter [@rigoneri](http://twitter.com/#!/rigoneri)
 
 
 ## License
