@@ -1,6 +1,9 @@
 # node-syte
 
-Syte is a really simple but powerful packaged personal site that has social integrations like Twitter, GitHub, Dribbble, Instagram, Foursquare, Tumblr, Wordpress, Last.fm, SoundCloud, Bitbucket, StackOverflow and Steam. You can see it in action on the syte author's [personal site](http://rigoneri.com).
+> node-syte is a JavaScript port of **[syte](https://github.com/rigoneri/syte)**.
+
+
+_Syte is a really simple but powerful packaged personal site that has social integrations like Twitter, GitHub, Dribbble, Instagram, Foursquare, Tumblr, Wordpress, Last.fm, SoundCloud, Bitbucket, StackOverflow and Steam. You can see it in action on the syte author's [personal site](http://rigoneri.com)._
 
 
 ## Social Integrations
