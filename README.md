@@ -5,7 +5,7 @@ Syte is a really simple but powerful packaged personal site that has social inte
 
 ## Social Integrations
 
-Social integrations are at the heart of syte. The following are currently implemented.
+Social integrations are at the heart of syte. The following integrations are currently implemented.
 
 
 ### Blog
@@ -423,10 +423,19 @@ understand roughly how it all fits together.
 
 
 
+## Author
+
+**node-syte**
+
+  * Jon Schlinkert / [@jonschlinkert](http://twitter.com/jonschlinkert)
+
+Special thanks to @wprl for kickstarting the port from Python to JavaScript.
+
+
 
 ## Credit
 
-Syte was developed by **Rigo** (rodrigo neri). Check his personal site out at <http://rigoneri.com> and follow him on twitter [@rigoneri](http://twitter.com/#!/rigoneri)
+**Syte** was developed by **Rigo** (rodrigo neri). Check his personal site out at <http://rigoneri.com> and follow him on twitter [@rigoneri](http://twitter.com/#!/rigoneri)
 
 
 ## License
