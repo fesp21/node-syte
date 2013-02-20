@@ -1,5 +1,8 @@
-// Dependencies
-// ------------
+/**
+ *
+ * Module dependencies.
+ */
+
 var http = require('http');
 var path = require('path');
 var express = require('express');
@@ -45,6 +48,7 @@ Object.keys(config.services).forEach( function (name) {
 
 // Sitemap
 // TODO // if (config.sitemap.enabled) app.use('/sitemap.xml', sitemap);
+// TODO // use assemble to build sitemap from template
 
 // Start the app if not being used as a mounted app
 if (!module.parent) {

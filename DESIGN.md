@@ -1,3 +1,5 @@
+# Design
+
 - All JS behavior is kicked off by the call to fetchBlogPosts() (syte/static/js/components/blog-posts.js)
 
     - This function is added with JQuery after page finishes loading.

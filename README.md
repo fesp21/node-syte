@@ -5,6 +5,8 @@
 
 _Syte is a really simple but powerful packaged personal site that has social integrations like Twitter, GitHub, Dribbble, Instagram, Foursquare, Tumblr, Wordpress, Last.fm, SoundCloud, Bitbucket, StackOverflow and Steam. You can see it in action on the syte author's [personal site](http://rigoneri.com)._
 
+If you like this project, please consider starring it to show your support. If this isn't your cup of tea, checkout this alternative: [overbyte](http://myspace.com)
+
 **Table of Contents**
 
 - [Social Integrations](#social-integrations)
