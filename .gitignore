@@ -1,14 +1,14 @@
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
+# lib-cov
+# *.seed
+# *.log
+# *.csv
+# *.dat
+# *.out
+# *.pid
+# *.gz
 
-pids
-logs
-results
+# pids
+# logs
+# results
 
-npm-debug.log
+# npm-debug.log
