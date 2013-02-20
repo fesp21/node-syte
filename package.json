@@ -1,6 +1,6 @@
 {
   "name": "node-syte",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A port of Syte to Node.js",
   "main": "app.js",
   "scripts": {
@@ -11,12 +11,24 @@
     "url": "git://github.com/jonschlinkert/node-syte.git"
   },
   "keywords": [
+    "node blog",
+    "node site",
+    "node syte",
+    "node website",
+    "node wiki",
     "node",
+    "personal blog",
+    "personal site",
+    "personal website",
+    "personal wiki",
+    "site",
     "syte"
   ],
-  "author": "@wprl",
+  "author": {
+    "name": "@jonschlinkert",
+    "url": "http://github.com/jonschlinkert"
+  },
   "license": "MIT",
-  "gitHead": "25d94ab1ebae84dde8df55c36dbfce12086fa2de",
   "readmeFilename": "README.md",
   "dependencies": {
     "consolidate": "~0.8.0",
